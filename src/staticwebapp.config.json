@@ -1,0 +1,8 @@
+{
+    "routes": [
+        {
+            "route":"/hidden",
+            "redirect":"/mimi.html"
+        }
+    ]
+}
