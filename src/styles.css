@@ -10,9 +10,10 @@ html, body {
 }
 
 main {
-  margin: auto;
-  width: 50%;
+  margin: 0 auto;
+  max-width: 800px;
   padding: 20px;
+  text-align: center;
 }
 
 main > h1 {
